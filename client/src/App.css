@@ -1,0 +1,57 @@
+.App {
+  background: rgba(15, 1, 10, 0.096);
+ text-align: center;
+}
+
+.view-background{
+  background: lightgrey;
+  padding: 40px;
+}
+
+.details_div{
+  display: flex;
+  background: white;
+  height: 600px;
+  /* justify-content: space-between; */
+}
+
+.employee_details{
+  background: #ff8080;
+  color: white;
+  width: 300px;
+  border-radius: 10px;
+  
+}
+.timeLine_div{
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background: lightgrey;
+border-radius: 10px;
+  width: 100%;
+  padding: 15px ;
+  /* justify-content: space-between; */
+}
+
+.time_line{
+  padding: 15px ;
+  width: 400px;
+  background: white;
+border-radius: 10px;
+}
+.time_line h5{
+  color: #ff8080;
+}
+.day_details{
+  padding: 15px ;
+  width: 100px;
+  background: white;
+  margin-left: 15px;
+  width: 100%;
+border-radius: 10px;
+}
+.day_details h5{
+  color: #ff8080;
+}
